@@ -86,7 +86,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 # Inicie o notebook
 jupyter notebook Bootcamp_Avanti.ipynb
-
+```
 ---
 
 ## 📌 Próximos Passos
