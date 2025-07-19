@@ -1,6 +1,6 @@
 <h1 align="center">📊 Análise Exploratória e Modelagem de Dados <br><small>Bootcamp de Ciência de Dados AVANTI</small></h1> 
 
-## 🧠 Sobre o Projeto
+## Sobre o Projeto
 
 Este repositório documenta nosso projeto de **<span style="color:#ff8800">Análise Exploratória de Dados (AED)</span>** e **modelagem preditiva**, desenvolvido durante o **Bootcamp de Ciência de Dados da AVANTI**, utilizando o dataset *Cars Data From 1970 to 2024*.
 
@@ -8,7 +8,7 @@ Nosso foco inicial foi compreender profundamente o conjunto de dados — explora
 
 ---
 
-## 📌 Objetivos
+## Objetivos
 
 - Realizar uma Análise Exploratória completa do conjunto de dados.
 - Identificar as variáveis mais relevantes para previsão de preços.
@@ -18,27 +18,27 @@ Nosso foco inicial foi compreender profundamente o conjunto de dados — explora
 
 ---
 
-## 🛠️ Etapas do Projeto
+## Etapas do Projeto
 
 As análises e modelagens foram conduzidas no notebook `Bootcamp_Avanti.ipynb`, divididas em:
 
-### 🔍 1. Inspeção e Preparação dos Dados
+### 1. Inspeção e Preparação dos Dados
 - Carregamento, limpeza e tratamento de valores ausentes.
 - Engenharia de features com categorização e transformação de variáveis.
 
-### 📈 2. Análise Descritiva
+### 2. Análise Descritiva
 - Resumo estatístico das variáveis numéricas e categóricas.
 - Verificação de distribuição, dispersão e possíveis distorções nos dados.
 
-### 📊 3. Visualização de Dados
+### 3. Visualização de Dados
 - Gráficos de dispersão, histogramas, boxplots, heatmaps e pares de variáveis.
 - Análises visuais para facilitar insights e entendimento das correlações.
 
-### 🚨 4. Detecção de Outliers e Correlações
+### 4. Detecção de Outliers e Correlações
 - Aplicação de IQR e Z-score para remoção de valores atípicos.
 - Estudo da correlação entre variáveis para evitar multicolinearidade.
 
-### 🤖 5. Modelagem Preditiva
+### 5. Modelagem Preditiva
 - Aplicação dos modelos:
   - Regressão Linear (LRG)
   - K-Nearest Neighbors (KNN)
@@ -48,7 +48,7 @@ As análises e modelagens foram conduzidas no notebook `Bootcamp_Avanti.ipynb`, 
 - Validação cruzada com Monte Carlo (ShuffleSplit).
 - Métricas utilizadas: MAE, MSE, MAPE e R².
 
-### 🏆 6. Resultados e Conclusões
+### 6. Resultados e Conclusões
 - O modelo K-Nearest Neighbors (KNN) destacou-se com o melhor desempenho geral:
   - MAE = 1918.79
   - MSE = 1.285.973
@@ -58,7 +58,7 @@ As análises e modelagens foram conduzidas no notebook `Bootcamp_Avanti.ipynb`, 
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - 🐍 Python 3.x  
 - 📒 Jupyter Notebook  
@@ -66,12 +66,12 @@ As análises e modelagens foram conduzidas no notebook `Bootcamp_Avanti.ipynb`, 
 
 ---
 
-## ▶️ Como Executar
+## ▶ Como Executar
 
-### ✅ Execute Online  
-👉 [**Abrir no Google Colab**](https://colab.research.google.com/drive/12l4xJ4qjSdDmx2UmUJ9unQDMjGMz0YnP)
+### Execute Online  
+ [**Abrir no Google Colab**](https://colab.research.google.com/drive/12l4xJ4qjSdDmx2UmUJ9unQDMjGMz0YnP)
 
-### 💻 Execute Localmente
+### Execute Localmente
 ```bash
 # Clone o repositório
 git clone https://github.com/SAGIEV007/Bootcamp-Avanti.git
@@ -98,14 +98,14 @@ jupyter notebook Bootcamp_Avanti.ipynb
 
 ---
 
-## 👥 Autores
+## Autores
 
 Projeto colaborativo desenvolvido por estudantes da AVANTI, sob orientação do prof. Madson Luiz Dantas Dias:
 
+- 👩‍💻 Maria Eduarda Justino
 - 👨‍💻 Fernando da Conceição Cordeiro Filho  
 - 👨‍💻 David William A. Oliveira  
 - 👨‍💻 José Vitor Paulino Delmiro  
-- 👩‍💻 Maria Eduarda Justino
 
 ---
 
