@@ -1,7 +1,4 @@
 <h1 align="center">📊 Análise Exploratória e Modelagem de Dados <br><small>Bootcamp de Ciência de Dados AVANTI</small></h1> 
-<p align="center"><em>Descobrindo padrões, extraindo insights e construindo modelos preditivos com dados reais 💡</em></p>
-
----
 
 ## 🧠 Sobre o Projeto
 
