@@ -82,7 +82,7 @@ cd Bootcamp-Avanti
 
 # (Opcional) Crie um ambiente virtual
 python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
+source venv\Scripts\activate
 
 # Instale as dependências
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter
